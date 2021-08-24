@@ -1,0 +1,1 @@
+import{b as f,d as x,e,f as o}from"./chunk-2YHTWJFD.js";o();var t=f(x()),r=(0,t.createContext)({}),a=({children:s})=>{let[i,n]=(0,t.useState)([]);return e.createElement(r.Provider,{value:{gifs:i,setGifs:n}},s)},c=r;export{a,c as b};
